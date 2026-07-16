@@ -72,6 +72,7 @@ The dashboard provides a comprehensive view of telecom operations by highlightin
 This interactive Power BI dashboard provides business leaders with a comprehensive overview of revenue performance, customer behavior, subscription trends, and churn patterns. Through intuitive visualizations and dynamic reporting, it enables stakeholders to identify key opportunities, monitor operational performance, and support strategic decision-making.
 
 > Click the dashboard image above to view a preview of the completed dashboard.
+> (https://github.com/benmarkvictor/Nigerian-Telecom/blob/main/telecom.png)
 
 ---
 
